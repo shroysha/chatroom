@@ -1,5 +1,5 @@
 # chatroom
-> see code: [https://github.com/shroysha/shroysha.github.io/tree/master/chatroom](https://github.com/shroysha/shroysha.github.io/tree/master/chatroom)
+> see code: [https://github.com/shroysha/chatroom](https://github.com/shroysha/chatroom)
 
 ## Subprojects 
 1. [chatroom-app-client](chatroom-app-client)
