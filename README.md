@@ -1,5 +1,4 @@
 # chatroom
-{*> see code: [https://github.com/shroysha/chatroom](https://github.com/shroysha/chatroom)*}
 
 ## Subprojects 
 1. [chatroom-app-client](https://github.com/shroysha/chatroom-app-client)
