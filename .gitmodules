@@ -78,13 +78,13 @@
 	url = git://github.com/shroysha/scada-ejb.git
 [submodule "chatroom-app-client"]
 	path = chatroom-app-client
-	url = ./chatroom-app-client
-	branch = shroysha/chatroom-app-client
+	url = https://github.com/shroysha/chatroom-app-client.git
+	branch = master
 [submodule "chatroom-ejb"]
 	path = chatroom-ejb
-	url = ./chatroom-ejb
-	branch = shroysha/chatroom-ejb
+	url = https://github.com/shroysha/chatroom-ejb.git
+	branch = master
 [submodule "chatroom-war"]
 	path = chatroom-war
-	url = ./chatroom-war
-	branch = shroysha/chatroom-war
+	url = https://github.com/shroysha/chatroom-war.git
+	branch = master
