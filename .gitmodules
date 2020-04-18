@@ -1,0 +1,12 @@
+[submodule "chatroom-app-client"]
+	path = chatroom-app-client
+	url = https://github.com/shroysha/chatroom-app-client.git
+	branch = master
+[submodule "chatroom-ejb"]
+	path = chatroom-ejb
+	url = https://github.com/shroysha/chatroom-ejb.git
+	branch = master
+[submodule "chatroom-war"]
+	path = chatroom-war
+	url = https://github.com/shroysha/chatroom-war.git
+	branch = master
