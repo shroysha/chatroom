@@ -6,7 +6,7 @@
 1. [chatroom-war](https://github.com/shroysha/chatroom-war)
 
 ## Description
-A chatroom application
+Chatroom EAR
 
 ### Tags
 [EAR]
